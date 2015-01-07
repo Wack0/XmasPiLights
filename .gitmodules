@@ -1,0 +1,9 @@
+[submodule "piclient/dopin/wiringPi"]
+	path = piclient/dopin/wiringPi
+	url = git://git.drogon.net/wiringPi
+[submodule "serverside/ircbot/Net_SmartIRC"]
+	path = serverside/ircbot/Net_SmartIRC
+	url = https://github.com/pear/Net_SmartIRC
+[submodule "serverside/twitterbot/phirehose"]
+	path = serverside/twitterbot/phirehose
+	url = https://github.com/fennb/phirehose.git
